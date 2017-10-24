@@ -5,13 +5,13 @@ Its creation was inspired by [Yava](https://github.com/Beluki/Yava).
 ![alt text](https://raw.githubusercontent.com/giacomopoggi/Pyava/master/screenshots/screenshot.png)
 
 ## Keyboard shortcuts
-| Key         | Use                                              |
-| ----------- | ------------------------------------------------ |
-| Esc         | Close the program.                               |
-| Tab         | Change between the left and right panel.         |
-| Control + A | Show an information message.                     |
-| Control + R | Reload information config.ini.                   |
-| Control + S | Set a custom separator for splitting parameters. |
+| Key    | Use                                              |
+| ------ | ------------------------------------------------ |
+| Esc    | Close the program.                               |
+| Tab    | Change between the left and right panel.         |
+| Ctrl+A | Show an information message.                     |
+| Ctrl+R | Reload information config.ini.                   |
+| Ctrl+S | Set a custom separator for splitting parameters. |
 
 ## Configuration
 Pyava is configured using a file named "config.ini". This file contains everything Pyava needs to know about the folders
